@@ -2,7 +2,6 @@ certifi==2018.11.29
 chardet==3.0.4
 Django==2.1.5
 djangorestframework==3.9.1
-djangorestframework-simplejwt==3.3
 docopt==0.6.2
 idna==2.8
 pipreqs==0.4.9
