@@ -56,6 +56,7 @@ coverage.xml
 local_settings.py
 db.sqlite3
 passwords.txt
+secrets.py
 
 # Flask stuff:
 instance/
@@ -103,3 +104,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# visual studio
+.vscode/
