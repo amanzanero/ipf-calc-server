@@ -1,1 +1,1 @@
-# IPF Calculator Server  [![Build Status](https://travis-ci.org/amanzanero/ipf-calc-server.svg?branch=master)](https://travis-ci.org/amanzanero/ipf-calc-server)
+# IPF Calculator Server  [![Build Status](https://travis-ci.com/amanzanero/ipf-calc-server.svg?branch=master)](https://travis-ci.com/amanzanero/ipf-calc-server)
