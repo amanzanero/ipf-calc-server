@@ -1,4 +1,0 @@
-Django==2.1.5
-djangorestframework==3.9.1
-pylint==2.2.2
-pep8==1.7.1
